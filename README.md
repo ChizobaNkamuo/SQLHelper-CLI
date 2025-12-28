@@ -15,12 +15,15 @@ A C# CLI tool for querying commodity price data from SQL Server using stored pro
 - export: (work in progress)
 
 ## Example Usage
-
+```C#
 dotnet run dry-run --query GetPrices --symbol Gold --from 2024-01-01 --to 2024-01-31
-
+```
+```C#
 dotnet run symbols
+```
+```C#
 dotnet run queries
-
+```
 
 ## Planned
 - CSV / json export
