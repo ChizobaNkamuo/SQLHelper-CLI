@@ -1,6 +1,6 @@
 # SQLHelper CLI
 
-A C# CLI tool for querying commodity price data from SQL Server using stored procedures.
+A C# CLI tool for querying commodity price data from an SQL Server using stored procedures.
 
 ## Features
 - Dapper-based async SQL execution
